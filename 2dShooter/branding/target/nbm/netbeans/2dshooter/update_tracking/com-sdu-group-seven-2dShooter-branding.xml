@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.sdu.group.seven.2dShooter.branding">
-    <module_version install_time="1457697684315" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1457699135064" last="true" origin="installer" specification_version="1.0.1">
         <file crc="274673824" name="config/Modules/com-sdu-group-seven-2dShooter-branding.xml"/>
-        <file crc="2856190673" name="core/locale/core_2dshooter.jar"/>
-        <file crc="2643832287" name="modules/com-sdu-group-seven-2dShooter-branding.jar"/>
+        <file crc="3765573148" name="core/locale/core_2dshooter.jar"/>
+        <file crc="910216295" name="modules/com-sdu-group-seven-2dShooter-branding.jar"/>
         <file crc="3803071628" name="modules/ext/com.sdu.group.seven.2dShooter-branding/com-badlogicgames-gdx/gdx.jar"/>
-        <file crc="2233108003" name="modules/locale/org-netbeans-core-windows_2dshooter.jar"/>
-        <file crc="1526642239" name="modules/locale/org-netbeans-core_2dshooter.jar"/>
-        <file crc="4105915801" name="update_tracking/com-sdu-group-seven-2dShooter-branding.xml"/>
+        <file crc="1988011987" name="modules/locale/org-netbeans-core-windows_2dshooter.jar"/>
+        <file crc="66611194" name="modules/locale/org-netbeans-core_2dshooter.jar"/>
     </module_version>
 </module>

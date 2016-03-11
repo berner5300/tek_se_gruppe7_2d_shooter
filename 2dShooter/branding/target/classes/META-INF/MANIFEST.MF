@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 OpenIDE-Module-Localizing-Bundle: com/sdu/group/seven/dshooter/brandin
  g/Bundle.properties
 AutoUpdate-Essential-Module: true
-OpenIDE-Module-Specification-Version: 1.0
-OpenIDE-Module-Implementation-Version: 1.0-20160311
-OpenIDE-Module-Build-Version: 201603111201
+OpenIDE-Module-Specification-Version: 1.0.1
+OpenIDE-Module-Implementation-Version: 1.0.1-20160311
+OpenIDE-Module-Build-Version: 201603111225
 OpenIDE-Module: com.sdu.group.seven.2dShooter.branding
 OpenIDE-Module-Public-Packages: -
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
