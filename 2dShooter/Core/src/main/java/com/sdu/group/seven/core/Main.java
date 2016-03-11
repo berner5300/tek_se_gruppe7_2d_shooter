@@ -1,5 +1,6 @@
-package core;
+package com.sdu.group.seven.core;
 
+import com.sdu.group.seven.core.Game;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
