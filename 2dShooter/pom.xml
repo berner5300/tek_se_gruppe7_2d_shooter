@@ -61,7 +61,13 @@
         <module>Core</module>
         <module>Common</module>
     </modules>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.badlogicgames.gdx</groupId>
+            <artifactId>gdx</artifactId>
+            <version>1.9.0</version>
+        </dependency>
+    </dependencies>
     <properties>
         <netbeans.version>RELEASE81</netbeans.version>
         <brandingToken>2dshooter</brandingToken>
