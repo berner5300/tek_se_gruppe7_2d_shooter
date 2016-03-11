@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.templatesui">
-    <module_version install_time="1457688378954" last="true" origin="installer" specification_version="1.2.1">
+    <module_version install_time="1457692437270" last="true" origin="installer" specification_version="1.2.1">
         <file crc="1388336889" name="config/Modules/org-netbeans-modules-templatesui.xml"/>
         <file crc="2426450417" name="modules/locale/org-netbeans-modules-templatesui_ja.jar"/>
         <file crc="498503517" name="modules/locale/org-netbeans-modules-templatesui_pt_BR.jar"/>
