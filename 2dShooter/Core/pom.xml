@@ -32,8 +32,9 @@
         </dependency>
         <dependency>
             <groupId>com.badlogicgames.gdx</groupId>
-            <artifactId>gdx</artifactId>
-            <version>1.9.0</version>
+            <artifactId>gdx-platform</artifactId>
+            <version>1.9.2</version>
+            <classifier>natives-desktop</classifier>
         </dependency>
         <dependency>
             <groupId>com.badlogicgames.gdx</groupId>
